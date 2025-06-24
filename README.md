@@ -92,17 +92,7 @@ streamlit run dashboard/app.py
 ---
 
 ## 📄 Licensing & Credits
-MIT License. Built by [Ilya Kostikov](https://www.linkedin.com/in/ilya-kostikov/) — fraud analytics & AI consultant. 
-
-Use this project to showcase antifraud/data science skills in interviews, LinkedIn, or your GitHub portfolio.
+Built by [Ilya Kostikov](https://www.linkedin.com/in/ilya-kostikov/) — fraud analytics & AI consultant. 
 
 ---
-
-## ⭐️ GitHub Tips for This Repo
-- Create `fraud-detection` topic to boost discoverability
-- Use GitHub Actions to auto-test the API endpoint
-- Add screenshots or badges if deploying publicly
-
----
-
 Made with ❤️ by a developer who spent too many nights building fraud detectors.
