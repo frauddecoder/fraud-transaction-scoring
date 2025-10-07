@@ -1,6 +1,6 @@
 # ⚡️ Real-Time Fraud Detection Scoring System
 
-> A production-ready fraud scoring pipeline using Python, XGBoost, FastAPI, and Streamlit — ideal for fintech, SaaS, and e-commerce.
+> A production-ready fraud scoring pipeline using Python, XGBoost, FastAPI, and Streamlit for fintech, SaaS, and e-commerce.
 
 ---
 
